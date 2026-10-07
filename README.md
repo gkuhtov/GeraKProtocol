@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="ИЗОБРАЖЕНИЯ/gerakprotocol-symbol.png" alt="Символ GeraKProtocol" width="150">
+
 # GeraKProtocol
 
 ### Техническая документация экосистемы GeraK
