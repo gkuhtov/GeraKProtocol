@@ -20,6 +20,8 @@ GeraKProtocol объясняет, **что такое GeraK, какие прое
 
 ## 🧬 GeraK целиком
 
+<img src="СХЕМЫ/ЭКОСИСТЕМА.svg" alt="Визуальная карта экосистемы GeraK" width="100%">
+
 ```mermaid
 flowchart TB
     G["GeraK"]
