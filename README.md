@@ -4,7 +4,6 @@
 
 ### Техническая документация экосистемы GeraK
 
-**🧭 Собрал всё про GeraK в одном месте. Теперь осталось только не потерять это место.**
 
 [Экосистема](https://github.com/gkuhtov/GeraKProtocol) · [GitHub](https://github.com/gkuhtov)
 
