@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 820" role="img" aria-labelledby="title desc">
 <title id="title">Карта экосистемы GeraK</title>
-<desc id="desc">Логическая карта экосистемы GeraK и группы GeraKStore</desc>
+<desc id="desc">Логическая карта экосистемы GeraK, монорепозитория GeraKApps и группы GeraKStore</desc>
 <rect width="1400" height="820" rx="36" fill="#0b0d10"/>
 <text x="80" y="92" fill="#fff" font-family="Inter,Arial,sans-serif" font-size="42" font-weight="700">GeraK</text>
 <text x="80" y="132" fill="#9aa3ad" font-family="Inter,Arial,sans-serif" font-size="20">Логическая карта экосистемы</text>
@@ -8,8 +8,8 @@
 <text x="220" y="258" text-anchor="middle" fill="#fff" font-family="Inter,Arial,sans-serif" font-size="27" font-weight="700">GeraKNetwork</text>
 <text x="220" y="291" text-anchor="middle" fill="#9aa3ad" font-family="Inter,Arial,sans-serif" font-size="17">сервис</text>
 <rect x="400" y="205" width="280" height="120" rx="24" fill="#15191f" stroke="#3b424d"/>
-<text x="540" y="258" text-anchor="middle" fill="#fff" font-family="Inter,Arial,sans-serif" font-size="27" font-weight="700">GeraKLab</text>
-<text x="540" y="291" text-anchor="middle" fill="#9aa3ad" font-family="Inter,Arial,sans-serif" font-size="17">продукт</text>
+<text x="540" y="258" text-anchor="middle" fill="#fff" font-family="Inter,Arial,sans-serif" font-size="27" font-weight="700">GeraKApps</text>
+<text x="540" y="291" text-anchor="middle" fill="#9aa3ad" font-family="Inter,Arial,sans-serif" font-size="17">монорепозиторий · GeraKLab</text>
 <rect x="720" y="180" width="600" height="390" rx="32" fill="#11151a" stroke="#59616d"/>
 <text x="760" y="232" fill="#fff" font-family="Inter,Arial,sans-serif" font-size="30" font-weight="700">GeraKStore</text>
 <text x="760" y="265" fill="#9aa3ad" font-family="Inter,Arial,sans-serif" font-size="17">инфраструктура и связанные компоненты</text>
