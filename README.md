@@ -32,9 +32,9 @@ flowchart TB
     S["GeraKStore"]
     A["GeraKWonderAlice"]
 
-    W["GeraKStore-Web"]
-    H["GeraKStore-Welcome"]
-    M["GeraKStore-Manager"]
+    W["GeraKWeb"]
+    H["GeraKWelcome"]
+    M["GeraKManager"]
 
     G --> N
     G --> L
@@ -48,7 +48,7 @@ flowchart TB
 
 Схема показывает **логическую структуру экосистемы**, а не список программных зависимостей.
 
-GeraKStore-Web, GeraKStore-Welcome и GeraKStore-Manager относятся к экосистеме GeraKStore. Это не означает, что между ними обязательно существует техническая зависимость.
+GeraKWeb, GeraKWelcome и GeraKManager относятся к экосистеме GeraKStore. Это не означает, что между ними обязательно существует техническая зависимость.
 
 **→ [Подробнее об экосистеме](ЭКОСИСТЕМА.md)**
 
@@ -59,11 +59,11 @@ GeraKStore-Web, GeraKStore-Welcome и GeraKStore-Manager относятся к �
 | Проект | Роль | Статус |
 |---|---|---|
 | [GeraKNetwork](https://github.com/gkuhtov/GeraKNetwork) | Сервис | 🟢 Активен |
-| [GeraKLab](https://github.com/gkuhtov/GeraKLab) | Продукт | 🧪 Развивается |
+| [GeraKLab](https://github.com/gkuhtov/GeraKApps/tree/main/Projects/GeraKLab) | Продукт | 🧪 Развивается |
 | [GeraKStore](https://github.com/gkuhtov/GeraKStore) | Инфраструктура | 🟢 Активна |
-| [GeraKStore-Web](https://github.com/gkuhtov/GeraKStore-Web) | Веб-интерфейс | 🟢 Активен |
-| [GeraKStore-Welcome](https://github.com/gkuhtov/GeraKStore-Welcome) | Компонент | 🟢 Активен |
-| [GeraKStore-Manager](https://github.com/gkuhtov/GeraKStore-Manager) | Инструмент | 🟢 Активен |
+| [GeraKWeb](https://github.com/gkuhtov/GeraKWeb) | Веб-интерфейс | 🟢 Активен |
+| [GeraKWelcome](https://github.com/gkuhtov/GeraKWelcome) | Компонент | 🟢 Активен |
+| [GeraKManager](https://github.com/gkuhtov/GeraKManager) | Инструмент | 🟢 Активен |
 | [GeraKWonderAlice](https://github.com/gkuhtov/GeraKWonderAlice) | Эксперимент | 🧪 Развивается |
 
 Экосистема не ограничена этим списком. Новые проекты могут появляться без необходимости переделывать уже существующие.
