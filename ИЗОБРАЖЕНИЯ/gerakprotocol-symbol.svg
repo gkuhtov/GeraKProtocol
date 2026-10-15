@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">GeraKProtocol</title>
+  <desc id="desc">Символ GeraKProtocol: буква G и узлы сети на тёмном фоне.</desc>
+  <rect width="512" height="512" rx="112" fill="#0b0d10"/>
+  <rect x="24" y="24" width="464" height="464" rx="112" fill="#15191f" stroke="#36404c" stroke-width="4"/>
+  <path d="M369 157a144 144 0 1 0 7 187" fill="none" stroke="#f5f7fa" stroke-width="34" stroke-linecap="round"/>
+  <path d="M265 262h105v70" fill="none" stroke="#3ad6be" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <g stroke="#41586c" stroke-width="4">
+    <path d="M123 155l31 20M389 155l-24 24M124 356l29-25M388 357l-22-25"/>
+  </g>
+  <g>
+    <circle cx="111" cy="155" r="12" fill="#569cff"/>
+    <circle cx="400" cy="155" r="12" fill="#3ad6be"/>
+    <circle cx="112" cy="356" r="12" fill="#3ad6be"/>
+    <circle cx="398" cy="358" r="12" fill="#569cff"/>
+    <circle cx="256" cy="77" r="10" fill="#3ad6be"/>
+  </g>
+</svg>
