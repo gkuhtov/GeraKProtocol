@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="ИЗОБРАЖЕНИЯ/gerakprotocol-symbol.svg" alt="Символ GeraKProtocol" width="96">
+<img src="ИЗОБРАЖЕНИЯ/gerakprotocol-symbol.svg" alt="Символ GeraKProtocol" width="128">
 
 # GeraKProtocol
 
