@@ -28,7 +28,7 @@ flowchart TB
     G["GeraK"]
 
     N["GeraKNetwork"]
-    L["GeraKLab"]
+    L["GeraKApps / GeraKLab"]
     S["GeraKStore"]
     A["GeraKWonderAlice"]
 
@@ -58,13 +58,15 @@ GeraKWeb, GeraKWelcome и GeraKManager относятся к экосистем�
 
 | Проект | Роль | Статус |
 |---|---|---|
-| [GeraKNetwork](https://github.com/gkuhtov/GeraKNetwork) | Сервис | 🟢 Активен |
-| [GeraKLab](https://github.com/gkuhtov/GeraKApps/tree/main/Projects/GeraKLab) | Продукт | 🧪 Развивается |
-| [GeraKStore](https://github.com/gkuhtov/GeraKStore) | Инфраструктура | 🟢 Активна |
+| [GeraKStore](https://github.com/gkuhtov/GeraKStore) | Инфраструктура магазина | 🟢 Активна |
+| [GeraKManager](https://github.com/gkuhtov/GeraKManager) | Инструмент управления | 🟢 Активен |
 | [GeraKWeb](https://github.com/gkuhtov/GeraKWeb) | Веб-интерфейс | 🟢 Активен |
 | [GeraKWelcome](https://github.com/gkuhtov/GeraKWelcome) | Компонент | 🟢 Активен |
-| [GeraKManager](https://github.com/gkuhtov/GeraKManager) | Инструмент | 🟢 Активен |
-| [GeraKWonderAlice](https://github.com/gkuhtov/GeraKWonderAlice) | Эксперимент | 🧪 Развивается |
+| [GeraKApps](https://github.com/gkuhtov/GeraKApps) | Монорепозиторий приложений | 🟢 Активен |
+| [GeraKLab](https://github.com/gkuhtov/GeraKApps/tree/main/Projects/GeraKLab) | Продукт внутри GeraKApps | 🧪 Развивается |
+| [GeraKNetwork](https://github.com/gkuhtov/GeraKNetwork) | Сетевой проект | 🟢 Используется |
+| [GeraKWonderAlice](https://github.com/gkuhtov/GeraKWonderAlice) | Голосовой эксперимент | 🧪 Развивается |
+| [GeraKProtocol](https://github.com/gkuhtov/GeraKProtocol) | Документация экосистемы | 🟢 Активен |
 
 Экосистема не ограничена этим списком. Новые проекты могут появляться без необходимости переделывать уже существующие.
 
