@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="ИЗОБРАЖЕНИЯ/gerakprotocol-symbol.png" alt="Символ GeraKProtocol" width="150">
-
-# GeraKProtocol
+# ⛩️ GeraKProtocol
 
 ### Техническая документация экосистемы GeraK
 
-**1.0.0** · 🟢 Актуален · 🇷🇺 Открытая документация
+**Общая карта проектов, архитектурные принципы и правила оформления.**
 
-> **Понять GeraK целиком, не открывая семь репозиториев по очереди.**
+[Экосистема](https://github.com/gkuhtov/GeraKProtocol) · [GitHub](https://github.com/gkuhtov)
+
+[Профиль автора](https://github.com/gkuhtov)
 
 </div>
 
@@ -258,6 +258,8 @@ GeraKProtocol **не диктует**, на чём писать приложен
 
 </div>
 
+
+---
 
 ---
 
